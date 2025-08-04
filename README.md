@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alessio
 
-I'm a **Full Stack Developer** specialised on the Front-End and focused on creating clean, responsive, and interactive web applications.
+I'm a **Full Stack Developer** specialised on the **Front-End** and focused on creating clean, responsive, and interactive web applications.
 
 🌍 After nearly 10 years living and working in London, with a background of working in hospitality, I returned to Italy to fully dedicate myself to web development.  
 💻 I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating databases APIs and Back-End applicaitons using Django and DjangoRest Frameworks. .  
