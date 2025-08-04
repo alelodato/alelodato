@@ -35,8 +35,7 @@ I'm a **Frontend Developer** focused on creating clean, responsive, and interact
 ## 📫 Let’s connect
 
 - 🌐 [Portfolio (coming soon)](https://alelodato.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/tuo-username)
-- 🐙 [GitHub](https://github.com/alelodato)
+- 💼 [LinkedIn](http://linkedin.com/in/alessio-lodato-0541411b8)
 
 ---
 
