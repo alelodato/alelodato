@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Alessio
 
-I'm a **Frontend Developer** focused on creating clean, responsive, and interactive web experiences.
+I'm a **Full Stack Developer** specialised on the Front-End and focused on creating clean, responsive, and interactive web applications.
 
-🌍 After nearly 10 years living and working in London, I returned to Italy to fully dedicate myself to web development.  
-💻 I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, and I’m currently deepening my knowledge of **Django REST** and exploring **Node.js**.  
-🎯 My current goal is to grow as a remote developer and collaborate with international teams.
+🌍 After nearly 10 years living and working in London, with a background of working in hospitality, I returned to Italy to fully dedicate myself to web development.  
+💻 I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating databases APIs and Back-End applicaitons using Django and DjangoRest Frameworks. .  
+🎯 My current goal is to grow as a developer to work and collaborate with international teams remotely.
 
 ---
 
@@ -21,9 +21,6 @@ I'm a **Frontend Developer** focused on creating clean, responsive, and interact
 - 🎮 [Pictures and Places](https://alelodato.github.io/Pictures-and-Places/)  
   *A geography-based guessing game with a mobile-first design and playful interface.*
 
-- ⚽ [The Football Academy](https://alelodato.github.io/The-Football-Academy/)  
-  *A professional website for a youth football academy.*
-
 - 🍽️ [Sapore di Mare](https://sapore-di-mare-0503ed908911.herokuapp.com/)  
   *Restaurant website with a Django-based booking system.*
 
@@ -38,6 +35,5 @@ I'm a **Frontend Developer** focused on creating clean, responsive, and interact
 - 💼 [LinkedIn](http://linkedin.com/in/alessio-lodato-0541411b8)
 
 ---
-
-> “Code is a tool. Design is a mindset.”
 [![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alelodato)](https://github.com/alelodato-readme-stats)
+
