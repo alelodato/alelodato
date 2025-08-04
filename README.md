@@ -25,7 +25,7 @@ I'm a **Full Stack Developer** specialised on the **Front-End** and focused on c
   *Restaurant website with a Django-based booking system.*
 
 - 📚 [ViBook](https://vibook-557c0bb75197.herokuapp.com/)  
-  *React + Django REST app for discovering and saving your favorite books.*
+  *React + Django REST app for discovering and saving your favorite parties and venues.*
 
 ---
 
