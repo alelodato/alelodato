@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** specialised on the **Front-End** and focused on creating clean, responsive, and interactive web applications.
 
-🌍 After nearly 10 years living and working in London, with a background of working in hospitality, I decided to start learning coding. I enrolled for the Code Institute's Full Start developer course in May 2024, and I decided to leave my job and return to Italy in March 2025, to fully dedicate myself to completing the course, and to keep working on improving my projects and portfolio.  
+🌍 After nearly 10 years living and working in London, with a background of working in hospitality, I decided to start my journey into tech. I enrolled for the Code Institute's Full Start developer course in May 2024, and I decided to leave my job and return to Italy in March 2025, to fully dedicate myself to completing the course, and to keep working on improving my projects and portfolio.  
 💻 I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating databases APIs and Back-End applicaitons using Django and DjangoRest Frameworks. .  
 🎯 My current goal is to grow as a developer to work and collaborate with international teams remotely.
 
