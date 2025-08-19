@@ -31,7 +31,7 @@ I'm a **Full Stack Developer** specialised on the **Front-End** and focused on c
 
 ## 📫 Let’s connect
 
-- 🌐 [Portfolio (coming soon)](https://alelodato.github.io)
+- 🌐 [Portfolio](https://www.alessiolodato.dev/)
 - 💼 [LinkedIn](http://linkedin.com/in/alessio-lodato-0541411b8)
 
 ---
