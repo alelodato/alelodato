@@ -27,7 +27,7 @@ I'm a **Full Stack Developer** specialised on the **Front-End** and focused on c
 - 🪩 [ViBook](https://vibook-557c0bb75197.herokuapp.com/)  
   *React + Django REST app for discovering and saving your favorite parties and venues.*
 
-- 👟 [Snakers Vault](Coming Soon)
+- 👟 Sneakers Vault (Coming Soon)
   *E Commerce website for a sneakers online store made with React + Django REST.*
 
 ---
