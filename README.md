@@ -11,25 +11,50 @@ I'm a **Full Stack Developer** specialised on the **Front-End** and focused on c
 ## 🛠 Tech Stack
 
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, AOS, Bootstrap
-- **Backend:** Django, Django REST Framework
-- **Other:** Git, GitHub, Responsive Design, REST API integration
+- **Backend:** Django, Django REST Framework, Express, Node.js.
+- **Other:** Git, GitHub, Heroku, Vercel, Responsive Design, REST API integration
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🍽️ <a href="https://sapore-di-mare-0503ed908911.herokuapp.com/" target="_blank">Sapore Di Mare</a>  
-  *Restaurant website with a Django-based booking system.*
+### 🔥 [Sneakers Vault](https://sneakers-vault-jet.vercel.app)  
+Modern e-commerce for sneakers built with **React** (frontend) and **Express** (backend).  
+- Features advanced search, filters, and wishlist.  
+- Integrated **Stripe Checkout** for secure payments.  
+- Fully localized in **5 languages** using `react-i18next`.  
+- Responsive, tested with **Vitest + React Testing Library**, deployed on **Vercel + Railway**.  
+👉 [GitHub Repository](https://github.com/alelodato/sneakers-vault/tree/main/sneakers-vault)
 
-- 👟 <a href="https://sneakers-vault-jet.vercel.app/" target="_blank">Sneakers Vault</a>
-  *E Commerce website for a sneakers online store made with React + Express.*
+---
 
-- 🪩 <a href="https://vibook-557c0bb75197.herokuapp.com/" target="_blank">Vibook</a>  
-  *React + Django REST app for discovering and saving your favorite parties and venues.*
+### 🍝 [Sapore di Mare](https://sapore-di-mare-0503ed908911.herokuapp.com/)  
+Restaurant website with a **Django-based booking system**.  
+- Online reservation system with table management and availability check.  
+- Admin panel to manage bookings and visualize the restaurant layout.  
+- Homepage enhanced with animations (AOS) for a modern look.  
+- Deployed on **Heroku**, with responsive design optimized for mobile users.  
+👉 [GitHub Repository](https://github.com/alelodato/sapore-di-mare)
 
-- 🎮 <a href="https://pictures-and-places.vercel.app/" target="_blank">Pictures And Places</a>
-  *A geography-based guessing game with a mobile-first design and playful interface.*
+---
 
+### 📚 [ViBook](https://vibook-557c0bb75197.herokuapp.com)  
+Full-stack web app built with **React** + **Django REST Framework**.  
+- Users can browse, save, and manage their favorite events and venues.  
+- Features authentication, CRUD operations, and REST API integration.  
+- Designed for scalability, with clear separation between frontend and backend.  
+- Deployed on **Heroku**, with a polished and responsive UI.  
+👉 [GitHub Repository](https://github.com/alelodato/vibook)
+
+---
+
+### 🌍 [Pictures and Places](https://alelodato.github.io/Pictures-and-Places/)  
+Interactive quiz web app developed with **HTML, CSS, and JavaScript**.  
+- Dynamic quiz with real-time validation of answers.  
+- Popup feedback (correct/incorrect), score calculation, and leaderboard.  
+- Player name input and ranking system at the end of the quiz.  
+- Lightweight, responsive, and deployed via **GitHub Pages**.  
+👉 [GitHub Repository](https://github.com/alelodato/Pictures-and-Places)
 ---
 
 ## 📫 Let’s connect
