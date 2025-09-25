@@ -18,16 +18,16 @@ I'm a **Full Stack Developer** specialised on the **Front-End** and focused on c
 
 ## 📌 Featured Projects
 
-- 🍽️ [Sapore di Mare](https://sapore-di-mare-0503ed908911.herokuapp.com/)  
+- 🍽️ <a href="https://sapore-di-mare-0503ed908911.herokuapp.com/" target="_blank">Sapore Di Mare</a>  
   *Restaurant website with a Django-based booking system.*
 
-- 👟 [Sneakers Vault](https://sneakers-vault-jet.vercel.app)
+- 👟 <a href="https://sneakers-vault-jet.vercel.app/" target="_blank">Sneakers Vault</a>
   *E Commerce website for a sneakers online store made with React + Express.*
 
-- 🪩 [ViBook](https://vibook-557c0bb75197.herokuapp.com/)  
+- 🪩 <a href="https://vibook-557c0bb75197.herokuapp.com/" target="_blank">Vibook</a>  
   *React + Django REST app for discovering and saving your favorite parties and venues.*
 
-- 🎮 [Pictures and Places](https://pictures-and-places.vercel.app/)  
+- 🎮 <a href="https://pictures-and-places.vercel.app/" target="_blank">Pictures And Places</a>
   *A geography-based guessing game with a mobile-first design and playful interface.*
 
 ---
