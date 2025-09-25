@@ -16,9 +16,9 @@ I'm a **Full Stack Developer** specialised on the **Front-End** and focused on c
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-### 🔥 [Sneakers Vault](https://sneakers-vault-jet.vercel.app)  
+### 👟 [Sneakers Vault](https://sneakers-vault-jet.vercel.app)  
 Modern e-commerce for sneakers built with **React** (frontend) and **Express** (backend).  
 - Features advanced search, filters, and wishlist.  
 - Integrated **Stripe Checkout** for secure payments.  
@@ -38,7 +38,7 @@ Restaurant website with a **Django-based booking system**.
 
 ---
 
-### 📚 [ViBook](https://vibook-557c0bb75197.herokuapp.com)  
+### 🪩 [ViBook](https://vibook-557c0bb75197.herokuapp.com)  
 Full-stack web app built with **React** + **Django REST Framework**.  
 - Users can browse, save, and manage their favorite events and venues.  
 - Features authentication, CRUD operations, and REST API integration.  
