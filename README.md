@@ -27,7 +27,7 @@ I'm a **Full Stack Developer** specialised on the **Front-End** and focused on c
 - 🪩 [ViBook](https://vibook-557c0bb75197.herokuapp.com/)  
   *React + Django REST app for discovering and saving your favorite parties and venues.*
 
-- 🎮 [Pictures and Places](https://alelodato.github.io/Pictures-and-Places/)  
+- 🎮 [Pictures and Places](https://pictures-and-places.vercel.app/)  
   *A geography-based guessing game with a mobile-first design and playful interface.*
 
 ---
