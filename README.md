@@ -53,7 +53,7 @@ Interactive quiz web app developed with **HTML, CSS, and JavaScript**.
 - Dynamic quiz with real-time validation of answers.  
 - Popup feedback (correct/incorrect), score calculation, and leaderboard.  
 - Player name input and ranking system at the end of the quiz.  
-- Lightweight, responsive, and deployed via Vercel, and Render. **
+- Lightweight, responsive, and deployed via Vercel, and Render.
 👉 [GitHub Repository](https://github.com/alelodato/Pictures-and-Places)
 ---
 
