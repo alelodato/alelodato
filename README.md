@@ -23,7 +23,7 @@ Modern e-commerce for sneakers built with **React** (frontend) and **Express** (
 - Features advanced search, filters, and wishlist.  
 - Integrated **Stripe Checkout** for secure payments.  
 - Fully localized in **5 languages** using `react-i18next`.  
-- Responsive, tested with **Vitest + React Testing Library**, deployed on **Vercel + Railway**.  
+    - Responsive, tested with **Vitest + React Testing Library**, deployed on **Vercel + Render**.  
 👉 [GitHub Repository](https://github.com/alelodato/sneakers-vault/tree/main/sneakers-vault)
 
 ---
@@ -53,7 +53,7 @@ Interactive quiz web app developed with **HTML, CSS, and JavaScript**.
 - Dynamic quiz with real-time validation of answers.  
 - Popup feedback (correct/incorrect), score calculation, and leaderboard.  
 - Player name input and ranking system at the end of the quiz.  
-- Lightweight, responsive, and deployed via **GitHub Pages**.  
+- Lightweight, responsive, and deployed via Vercel, and Render. **
 👉 [GitHub Repository](https://github.com/alelodato/Pictures-and-Places)
 ---
 
