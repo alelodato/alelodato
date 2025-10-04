@@ -48,7 +48,7 @@ Full-stack web app built with **React** + **Django REST Framework**.
 
 ---
 
-### 🌍 [Pictures and Places](https://alelodato.github.io/Pictures-and-Places/)  
+### 🌍 [Pictures and Places](https://pictures-and-places.vercel.app)
 Interactive quiz web app developed with **HTML, CSS, and JavaScript**.  
 - Dynamic quiz with real-time validation of answers.  
 - Popup feedback (correct/incorrect), score calculation, and leaderboard.  
