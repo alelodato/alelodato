@@ -63,5 +63,3 @@ Interactive quiz web app developed with **HTML, CSS, and JavaScript**.
 - 💼 [LinkedIn](http://linkedin.com/in/alessio-lodato-0541411b8)
 
 ---
-[![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alelodato)](https://github.com/alelodato-readme-stats)
-
