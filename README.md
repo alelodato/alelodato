@@ -19,7 +19,7 @@ I'm a **Web Developer** specialised on the **Front-End** and focused on creating
 ## 💻 Featured Projects
 
 ### 👟 [Sneakers Vault](https://sneakers-vault-jet.vercel.app)  
-![Sneakers-Vault]("Sneakers.png")
+![Sneakers-Vault]("[Sneakers.png](https://github.com/alelodato/alelodato/blob/35c6d9bc604b3149c768eafb23b506fc0a0494aa/Sneakers.png)")
 Modern e-commerce for sneakers built with **React** (frontend) and **Express** (backend).  
 - Features advanced search, filters, and wishlist.  
 - Integrated **Stripe Checkout** for secure payments.  
