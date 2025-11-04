@@ -19,7 +19,7 @@ I'm a **Web Developer** specialised on the **Front-End** and focused on creating
 ## 💻 Featured Projects
 
 ### 👟 [Sneakers Vault](https://sneakers-vault-jet.vercel.app)  
-![Sneakers-Vault]("C:\Users\Alessio\OneDrive\Pictures\Catture di schermata\homep1.png")
+![Sneakers-Vault]("Sneakers.png")
 Modern e-commerce for sneakers built with **React** (frontend) and **Express** (backend).  
 - Features advanced search, filters, and wishlist.  
 - Integrated **Stripe Checkout** for secure payments.  
@@ -30,7 +30,7 @@ Modern e-commerce for sneakers built with **React** (frontend) and **Express** (
 ---
 
 ### 🍝 [Sapore di Mare](https://sapore-di-mare-0503ed908911.herokuapp.com/)  
-![Sapore-Di-Mare]("C:\Users\Alessio\OneDrive\Pictures\Catture di schermata\homep1.png")
+![Sapore-Di-Mare]("homep1.png")
 Restaurant website with a **Django-based booking system**.  
 - Online reservation system with table management and availability check.  
 - Admin panel to manage bookings and visualize the restaurant layout.  
@@ -41,7 +41,7 @@ Restaurant website with a **Django-based booking system**.
 ---
 
 ### 🪩 [ViBook](https://vibook-557c0bb75197.herokuapp.com)
-![Vibook]("C:\Users\Alessio\OneDrive\Pictures\Catture di schermata\Vibook.png")
+![Vibook]("Vibook.png")
 Full-stack web app built with **React** + **Django REST Framework**.  
 - Users can browse, save, and manage their favorite events and venues.  
 - Features authentication, CRUD operations, and REST API integration.  
@@ -52,7 +52,7 @@ Full-stack web app built with **React** + **Django REST Framework**.
 ---
 
 ### 🌍 [Pictures and Places](https://pictures-and-places.vercel.app)
-![Pictures-and-places]("C:\Users\Alessio\OneDrive\Pictures\Catture di schermata\pictures.png")
+![Pictures-and-places]("pictures.png")
 Interactive quiz web app developed with **HTML, CSS, and JavaScript**.  
 - Dynamic quiz with real-time validation of answers.  
 - Popup feedback (correct/incorrect), score calculation, and leaderboard.  
