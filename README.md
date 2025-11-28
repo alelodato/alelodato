@@ -2,9 +2,9 @@
 
 I'm a **Web Developer** specialised on the **Front-End** and focused on creating clean, responsive, and interactive web applications.
 
-🌍 After nearly spending 10 years living and working in London, with a background of working in hospitality and retail, I decided to start my journey into tech. I enrolled for the Code Institute's Full Stack Developer course in May 2024, which i completed in July 2025, and I'm now keep on building and improving my personal projects and portfolio.   
-💻 I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating Databases, APIs and Back-End applications using Django,DjangoRest and Express frameworks. 
-🎯 My current goal is to grow as a developer to work and collaborate with international teams remotely.
+After nearly spending 10 years living and working in London, with a background of working in hospitality and retail, I decided to start my journey into tech. I enrolled for the Code Institute's Full Stack Developer course in May 2024, which i completed in July 2025, and I'm now keep on building and improving my personal projects and portfolio.   
+I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating Databases, APIs and Back-End applications using Django,DjangoRest and Express frameworks. 
+My current goal is to grow as a developer to work and collaborate with international teams remotely.
 
 ---
 
