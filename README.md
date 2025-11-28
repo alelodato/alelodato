@@ -3,7 +3,7 @@
 I'm a **Web Developer** specialised on the **Front-End** and focused on creating clean, responsive, and interactive web applications.
 
 🌍 After nearly spending 10 years living and working in London, with a background of working in hospitality and retail, I decided to start my journey into tech. I enrolled for the Code Institute's Full Stack Developer course in May 2024, which i completed in July 2025, and I'm now keep on building and improving my personal projects and portfolio.   
-💻 I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating Databases, APIs and Back-End applications using Django,DjangoRest, Node and Express frameworks. 
+💻 I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating Databases, APIs and Back-End applications using Django,DjangoRest and Express frameworks. 
 🎯 My current goal is to grow as a developer to work and collaborate with international teams remotely.
 
 ---
@@ -11,7 +11,7 @@ I'm a **Web Developer** specialised on the **Front-End** and focused on creating
 ## 🛠 Tech Stack
 
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, AOS, Bootstrap
-- **Backend:** Django, Django REST Framework, Express, Node.js.
+- **Backend:** Django, Django REST Framework, Express.
 - **Other:** Git, GitHub, Heroku, Vercel, Responsive Design, REST API integration
 
 ---
@@ -25,6 +25,7 @@ Modern e-commerce for sneakers built with **React** (frontend) and **Express** (
 - Fully localized in **5 languages** using `react-i18next`.  
     - Responsive, tested with **Vitest + React Testing Library**, deployed on **Vercel + Render**.  
 👉 [GitHub Repository](https://github.com/alelodato/sneakers-vault/tree/main/sneakers-vault)
+🔗 **Live:** (https://sneakers-vault-jet.vercel.app)
 
 ---
 
@@ -35,6 +36,7 @@ Restaurant website with a **Django-based booking system**.
 - Homepage enhanced with animations (AOS) for a modern look.  
 - Deployed on **Heroku**, with responsive design optimized for mobile users.  
 👉 [GitHub Repository](https://github.com/alelodato/sapore-di-mare)
+🔗 **Live:** (https://sapore-di-mare-0503ed908911.herokuapp.com)
 
 ---
 
@@ -45,6 +47,22 @@ Full-stack web app built with **React** + **Django REST Framework**.
 - Designed for scalability, with clear separation between frontend and backend.  
 - Deployed on **Heroku**, with a polished and responsive UI.  
 👉 [GitHub Repository](https://github.com/alelodato/vibook)
+
+---
+
+### **Armone**  
+Modern showcase website for a fictional Pilates studio.  
+Built with **React + Vite + Tailwind CSS**, featuring Web3Forms for contact and a built-in booking system via **Cal.com**.  
+👉 [GitHub Repository](https://github.com/alelodato/armone)
+🔗 **Live:** (https://armone.vercel.app/)
+
+---
+
+### **YB Building & Gardening**  
+Showcase site for a freelance tradesman in England.  
+Created with **React + Vite + Tailwind CSS**, with a clean services layout and Web3Forms contact integration.
+👉 [GitHub Repository](https://github.com/alelodato/yb-building-gardening)
+🔗 **Live:** (https://www.ybpropertyservices.com/)
 
 ---
 
@@ -59,7 +77,7 @@ Interactive quiz web app developed with **HTML, CSS, and JavaScript**.
 
 ## 📫 Let’s connect
 
-- 🌐 [Portfolio](https://www.alessiolodato.dev/)
+- 🌐 [Portfolio](https://my-portfolio-website-alpha-one.vercel.app)
 - 💼 [LinkedIn](http://linkedin.com/in/alessio-lodato-0541411b8)
 
 ---
