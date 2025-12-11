@@ -1,81 +1,89 @@
-# 👋 Hi, I'm Alessio
+# 👋 Ciao, sono Alessio
 
-I'm a **Web Developer** specialised on the **Front-End** and focused on creating clean, responsive, and interactive web applications.
+Sono un Web Developer specializzato nel Front-End e focalizzato sulla creazione di applicazioni web pulite, responsive e interattive.
 
-After nearly spending 10 years living and working in London, with a background of working in hospitality and retail, I decided to start my journey into tech. I enrolled for the Code Institute's Full Stack Developer course in May 2024, which i completed in July 2025, and I'm now keep on building and improving my personal projects and portfolio.   
-I enjoy building intuitive UIs using **React**, **JavaScript**, and **modern CSS**, but also creating Databases, APIs and Back-End applications using Django,DjangoRest and Express frameworks. 
-My current goal is to grow as a developer to work and collaborate with international teams remotely.
+Dopo aver trascorso quasi 10 anni vivendo e lavorando a Londra, con un background nel settore hospitality e retail, ho deciso di intraprendere il mio percorso nel mondo tech. Mi sono iscritto al corso Full Stack Developer del Code Institute nel maggio 2024, che ho completato nel luglio 2025, e continuo a sviluppare e migliorare i miei progetti personali e il mio portfolio.
+Mi piace creare interfacce intuitive utilizzando React, JavaScript e CSS moderno, oltre a progettare database, API e applicazioni Back-End con Django, Django REST Framework ed Express.
+Il mio obiettivo attuale è crescere come sviluppatore e collaborare con team internazionali da remoto.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, AOS, Bootstrap
+- **Frontend:** React/Vite, Next.Js, JavaScript (ES6+), HTML5, CSS, TailwindCSS, AOS, Bootstrap
 - **Backend:** Django, Django REST Framework, Express.
-- **Other:** Git, GitHub, Heroku, Vercel, Responsive Design, REST API integration
+- **Altro:** Git, GitHub, Heroku, Vercel, Railway, Responsive Design, REST API integration
 
 ---
 
-## 💻 Featured Projects
+## Progetti in evidenza
 
-### 👟 [Sneakers Vault](https://sneakers-vault-jet.vercel.app)  
-Modern e-commerce for sneakers built with **React** (frontend) and **Express** (backend).  
-- Features advanced search, filters, and wishlist.  
-- Integrated **Stripe Checkout** for secure payments.  
-- Fully localized in **5 languages** using `react-i18next`.  
-    - Responsive, tested with **Vitest + React Testing Library**, deployed on **Vercel + Render**.  
+### [Sneakers Vault](https://sneakers-vault-jet.vercel.app)  
+Moderno e-commerce di sneakers realizzato con React (frontend) ed Express (backend).
+
+Include ricerca avanzata, filtri e wishlist.
+Integrazione con Stripe Checkout per pagamenti sicuri.
+Completamente localizzato in 5 lingue tramite react-i18next.
+Responsive, testato con Vitest + React Testing Library, deploy su Vercel + Render.**.  
 👉 [GitHub Repository](https://github.com/alelodato/sneakers-vault/tree/main/sneakers-vault)
 🔗 **Live:** (https://sneakers-vault-jet.vercel.app)
 
 ---
 
-### 🍝 [Sapore di Mare](https://sapore-di-mare-0503ed908911.herokuapp.com/)  
-Restaurant website with a **Django-based booking system**.  
-- Online reservation system with table management and availability check.  
-- Admin panel to manage bookings and visualize the restaurant layout.  
-- Homepage enhanced with animations (AOS) for a modern look.  
-- Deployed on **Heroku**, with responsive design optimized for mobile users.  
-👉 [GitHub Repository](https://github.com/alelodato/sapore-di-mare)
-🔗 **Live:** (https://sapore-di-mare-0503ed908911.herokuapp.com)
-
----
-
-### 🪩 [ViBook](https://vibook-557c0bb75197.herokuapp.com)
-Full-stack web app built with **React** + **Django REST Framework**.  
-- Users can browse, save, and manage their favorite events and venues.  
-- Features authentication, CRUD operations, and REST API integration.  
-- Designed for scalability, with clear separation between frontend and backend.  
-- Deployed on **Heroku**, with a polished and responsive UI.  
-👉 [GitHub Repository](https://github.com/alelodato/vibook)
-
----
-
-### **Armone**  
-Modern showcase website for a fictional Pilates studio.  
-Built with **React + Vite + Tailwind CSS**, featuring Web3Forms for contact and a built-in booking system via **Cal.com**.  
-👉 [GitHub Repository](https://github.com/alelodato/armone)
-🔗 **Live:** (https://armone.vercel.app/)
+### **Future Frames (In fase di sviluppo)** — Sito vetrina moderno sviluppato con React, Vite e Tailwind CSS per un’agenzia di videomaking.
+Include un hero video cinematografico, animazioni AOS, gallerie dinamiche e un form di contatto integrato con EmailJS. L’obiettivo è trasmettere professionalità e cura estetica, valorizzando lo stile visivo dell’agenzia.
 
 ---
 
 ### **YB Building & Gardening**  
-Showcase site for a freelance tradesman in England.  
-Created with **React + Vite + Tailwind CSS**, with a clean services layout and Web3Forms contact integration.
+Sito vetrina per un libero professionista in Inghilterra.
+Realizzato con React + Vite + Tailwind CSS, presenta una struttura pulita dei servizi e integrazione del form contatti tramite Web3Forms.
 👉 [GitHub Repository](https://github.com/alelodato/yb-building-gardening)
 🔗 **Live:** (https://www.ybpropertyservices.com/)
 
 ---
 
-### 🌍 [Pictures and Places](https://pictures-and-places.vercel.app)
-Interactive quiz web app developed with **HTML, CSS, and JavaScript**.  
-- Dynamic quiz with real-time validation of answers.  
-- Popup feedback (correct/incorrect), score calculation, and leaderboard.  
-- Player name input and ranking system at the end of the quiz.  
-- Lightweight, responsive, and deployed via Vercel, and Render.
+### [Sapore di Mare](https://sapore-di-mare-0503ed908911.herokuapp.com/)  
+Restaurant website with a **Django-based booking system**.  
+Sito web di un ristorante con sistema di prenotazione basato su Django.
+Sistema di prenotazioni online con gestione tavoli e verifica disponibilità.
+Pannello admin per gestire prenotazioni e visualizzare la mappa del ristorante.
+Homepage con animazioni AOS per un look moderno.
+
+Deploy su Heroku, design completamente responsive.
+👉 [GitHub Repository](https://github.com/alelodato/sapore-di-mare)
+🔗 **Live:** (https://sapore-di-mare-0503ed908911.herokuapp.com)
+
+---
+
+### [ViBook](https://vibook-557c0bb75197.herokuapp.com)
+Applicazione web full-stack sviluppata con React + Django REST Framework.
+Gli utenti possono esplorare, salvare e gestire i propri eventi e locali preferiti.
+Include autenticazione, operazioni CRUD e integrazione con REST API.
+Progettata per essere scalabile, con chiara separazione tra frontend e backend.
+Deploy su Heroku, con interfaccia utente curata e responsive.
+👉 [GitHub Repository](https://github.com/alelodato/vibook)
+
+---
+
+### **Armone**  
+Sito vetrina moderno per uno studio di Pilates fittizio.
+Realizzato con React + Vite + Tailwind CSS, include Web3Forms per il form di contatto e un sistema di prenotazione integrato tramite Cal.com. 
+👉 [GitHub Repository](https://github.com/alelodato/armone)
+🔗 **Live:** (https://armone.vercel.app/)
+
+---
+
+### [Pictures and Places](https://pictures-and-places.vercel.app)
+Web app di quiz interattivo sviluppata con HTML, CSS e JavaScript.
+Quiz dinamico con validazione in tempo reale delle risposte.
+Popup di feedback (corretto/errato), calcolo del punteggio e classifica.
+Inserimento del nome del giocatore e sistema di ranking a fine quiz.
+Leggera, responsive e deployata tramite Vercel e Render.
 👉 [GitHub Repository](https://github.com/alelodato/Pictures-and-Places)
 ---
 
-## 📫 Let’s connect
+## Restiamo in contatto
 
 - 🌐 [Portfolio](https://my-portfolio-website-alpha-one.vercel.app)
 - 💼 [LinkedIn](http://linkedin.com/in/alessio-lodato-0541411b8)
