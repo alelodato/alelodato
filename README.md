@@ -73,15 +73,10 @@ Realizzato con React + Vite + Tailwind CSS, include Web3Forms per il form di con
 🔗 **Live:** (https://armone.vercel.app/)
 
 ---
-
-### **[Pictures and Places](https://pictures-and-places.vercel.app)**
-Web app di quiz interattivo sviluppata con HTML, CSS e JavaScript.
-Quiz dinamico con validazione in tempo reale delle risposte.
-Popup di feedback (corretto/errato), calcolo del punteggio e classifica.
-Inserimento del nome del giocatore e sistema di ranking a fine quiz.
-Leggera, responsive e deployata tramite Vercel e Render.
-👉 [GitHub Repository](https://github.com/alelodato/Pictures-and-Places)
----
+### [Pictures and Places](https://pictures-and-places.vercel.app)
+Quiz interattivo sviluppato con HTML, CSS e Javascript, con validazione in tempo reale delle risposte,
+popup di feedback (corretto/incorretto), calcolo del punteggio e leaderboard, con inserimento del nome
+del giocatore e punteggi memorizzatti in un database backend a fine quiz.
 
 ## Restiamo in contatto
 
