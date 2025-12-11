@@ -74,7 +74,7 @@ Realizzato con React + Vite + Tailwind CSS, include Web3Forms per il form di con
 
 ---
 
-### [Pictures and Places](https://pictures-and-places.vercel.app)
+### **[Pictures and Places](https://pictures-and-places.vercel.app)**
 Web app di quiz interattivo sviluppata con HTML, CSS e JavaScript.
 Quiz dinamico con validazione in tempo reale delle risposte.
 Popup di feedback (corretto/errato), calcolo del punteggio e classifica.
